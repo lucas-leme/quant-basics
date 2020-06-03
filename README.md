@@ -6,7 +6,6 @@ Notebook com estudo guiado de finanças quantitativas, contendo os seguinte tóp
 - Retornos e Risco (Volatilidade)
 - Lidando com portfolios
 - Predição de Series Temporais
-- Implementação TSMOM
 
 ## Instalação
 
